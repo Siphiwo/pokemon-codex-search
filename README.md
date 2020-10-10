@@ -1,2 +1,2 @@
-# pokemon-codex-search
+# Pokemon Codex Search
 Simple pokemon codex search application
